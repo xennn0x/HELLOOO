@@ -14,7 +14,6 @@ Welcome to my GitHub Portfolio Repository!
 
 📫 Contact:
 - Telegram: @Ntooo1
-- Email: yanto22r@gmail.com
 - Twitter: @0xXennt
 
 Feel free to explore and fork this repository!
